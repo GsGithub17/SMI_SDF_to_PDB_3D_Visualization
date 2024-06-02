@@ -17,7 +17,7 @@ To run this application, you need to have Python installed. You can install the 
 pip install streamlit rdkit py3Dmol stmol
 ```
 
-##Usage
+## Usage
 
 1. Clone this repository or download the visualize_pdb.py script.
 2. Navigate to the directory containing the visualize_pdb.py script.
@@ -27,7 +27,7 @@ pip install streamlit rdkit py3Dmol stmol
 streamlit run visualize_pdb.py
 ```
 
-##How to Use
+## How to Use
 
 1. Choose Input Method: Select either "SMILES" or "SDF File" from the sidebar.
 2. SMILES Input:
@@ -40,24 +40,24 @@ streamlit run visualize_pdb.py
    The PDB format of the molecule will be displayed in a text area.
    A download button will be provided to download the PDB file.
    The 3D structure of the molecule will be visualized below.
-##Example
+## Example
 
 Input SMILES: Enter CCO (ethanol) in the SMILES input area.
 Upload SDF File: Upload an SDF file containing the molecule information.
 Visualize: Click on "Convert and Visualize" to see the PDB output and 3D structure.
 
-##Dependencies
+## Dependencies
 
 Streamlit: An app framework for Machine Learning and Data Science.
 RDKit: A collection of cheminformatics and machine learning tools.
 py3Dmol: A Python wrapper for 3Dmol.js to visualize molecular data.
 stmol: Streamlit component to integrate py3Dmol visualizations.
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
-##Acknowledgments
+## Acknowledgments
 
 Inspired by the Streamlit and RDKit communities.
 Special thanks to the developers of py3Dmol and stmol for their amazing tools.
