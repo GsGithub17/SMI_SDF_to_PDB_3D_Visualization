@@ -24,7 +24,7 @@ pip install streamlit rdkit py3Dmol stmol
 3. Run the Streamlit app:
 
 ```bash
-streamlit run visualize_pdb.py
+streamlit run sdf_smiles_to_pdb3D.py
 ```
 
 ## How to Use
