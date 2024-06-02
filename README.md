@@ -32,8 +32,8 @@ streamlit run sdf_smiles_to_pdb3D.py
 1. Choose Input Method: Select either "SMILES" or "SDF File" from the sidebar.
 2. SMILES Input:
    Enter a SMILES string in the text area provided.
-3. Click the "Convert and Visualize" button.
-   SDF File Upload:
+   Click the "Convert and Visualize" button.
+3. SDF File Upload:
    Upload an SDF file using the file uploader.
    Click the "Convert and Visualize" button.
 4. View Results:
